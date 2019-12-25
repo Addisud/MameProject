@@ -1,4 +1,4 @@
-This is Addisu.
-Mame has added this text!
 This is Addisu. I am Ethio American citizen.
->>>>>>> added nationality information
+Mame has added this text!
+
+
